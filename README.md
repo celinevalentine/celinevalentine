@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://resume.creddle.io/resume/tmnd143dbr](https://resume.creddle.io/resume/tmnd143dbr)
 
-- ⚡ Fun fact **I have a perfect pitch. I can't focus with background music as my brain starts transcribing note by note.**
+- ⚡ Fun fact **I have a perfect pitch. Whenever there is background music playing, my brain starts transcribing note by note automatically regardless what I am doing at the moment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
