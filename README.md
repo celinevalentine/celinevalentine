@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
-<h3 align="center">A passionate full-stack developer from CA, USA</h3>
+<h3 align="center">A passionate full-stack developer/STEM Educator/Concert Pianist from CA, USA</h3>
 
 - 🔭 I’m currently working on **e-commerce site using React**
 
