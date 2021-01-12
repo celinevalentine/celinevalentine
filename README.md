@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
 <h3 align="center">A passionate full-stack developer from CA, USA</h3>
 
-- 🔭 I’m currently working on **e-commerce site using React**
+- 🔭 I’m currently working on **social skill game app using React**
 
 - 🌱 I’m currently learning **React, Ruby on rails, Typescript**
 
