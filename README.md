@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **quizizz clone**
 
-- 👨‍💻 All of my projects are available at [https://github.com/celinevalentine](https://github.com/celinevalentine)
+- 👨‍💻 All of my portfolio site is available at [https://celine-valentine.netlify.app/](https://celine-valentine.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, React**
 
