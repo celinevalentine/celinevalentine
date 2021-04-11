@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cyv419@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/tmnd143dbr](https://resume.creddle.io/resume/tmnd143dbr)
+- 📄 Know about my experiences [https://resume.creddle.io/resume/e6qwhi17kid](https://resume.creddle.io/resume/e6qwhi17kid)
 
 - ⚡ Fun fact **I have a perfect pitch. I prefer not to code while listening to music as my brain starts transcribing note by note.**
 
