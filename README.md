@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **social skill game app using React**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **quizizz clone**
 
