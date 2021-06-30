@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
-<h3 align="center">A passionate full-stack developer @ nteract from CA, USA</h3>
+<h3 align="center">A passionate Technical Product Manager & Full-stack Developer @ Hack-CMP</h3>
 
-- 🔭 I’m currently working on **social skill game app using React**
+- 🔭 I’m currently working on **global crisis management platform using React, Java and PosgreSQL**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **quizizz clone**
+- 👯 I’m looking to collaborate on **Machine Learning Voico Recognition App for Healthcare**
 
 - 👨‍💻 All of my portfolio site is available at [https://celine-valentine.netlify.app/](https://celine-valentine.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, React**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, React, PostgreSQL, Express**
 
-- 📫 How to reach me **cyv419@gmail.com**
+- 📫 How to reach me **celine.valentine.tech@gmail.com**
 
 - 📄 Know about my experiences [https://resume.creddle.io/resume/e6qwhi17kid](https://resume.creddle.io/resume/e6qwhi17kid)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/celineval3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="celineval3" height="30" width="40" /></a>
+<a href="https://twitter.com/celinevtech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="celineval3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/celinevalentine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="celinevalentine" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/coderonpointe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="coderonpointe" height="30" width="40" /></a>
 </p>
