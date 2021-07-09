@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
-<h3 align="center">A passionate Technical Product Manager & Full-stack Developer @ Hack-CMP</h3>
+<h3 align="center">A passionate Full-stack Developer @ Hack-CMP</h3>
 
 - 🔭 I’m currently working on **global crisis management platform using React, Java and PosgreSQL**
 
