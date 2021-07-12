@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Voico Recognition App for Healthcare**
 
-- 👨‍💻 All of my portfolio site is available at [https://celine-valentine.netlify.app/](https://celine-valentine.netlify.app/)
+- 👨‍💻 All of my portfolio site is available at [https://celinevalentine.com/](https://celinevalentine.com/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, React, PostgreSQL, Express**
 
