@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **celine.valentine.tech@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/e6qwhi17kid](https://resume.creddle.io/resume/e6qwhi17kid)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w4aF9eAThH5a3MZsBUbI-ajWsZBu_G0t/view](https://drive.google.com/file/d/1w4aF9eAThH5a3MZsBUbI-ajWsZBu_G0t/view)
 
 - ⚡ Fun fact **I have a perfect pitch. I prefer not to code while listening to music as my brain starts transcribing note by note.**
 
