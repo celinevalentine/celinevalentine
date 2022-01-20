@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
-<h3 align="center">A passionate Full-stack Developer @ Hack-CMP</h3>
+<h3 align="center">A passionate Full-stack Developer @ Education Analytics</h3>
 
-- 🔭 I’m currently working on **global crisis management platform using React, Java and PosgreSQL**
+- 🔭 I’m currently working on **building data visualization tools for education institutions**
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **e-consulter clone full-stack app**
+- 👯 I’m looking to collaborate on **building a full-stack app in AWS**
 
 - 👨‍💻 All of my portfolio site is available at [https://celinevalentine.com/](https://celinevalentine.com/)
 
