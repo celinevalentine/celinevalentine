@@ -12,9 +12,6 @@
 - 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, React, PostgreSQL, Express.**
 
 - 📫 How to reach me **celine.valentine.tech@gmail.com.**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w4aF9eAThH5a3MZsBUbI-ajWsZBu_G0t/view](https://drive.google.com/file/d/1w4aF9eAThH5a3MZsBUbI-ajWsZBu_G0t/view)
-
 - ⚡ Fun fact **I have a perfect pitch. I prefer not to code while listening to music as my brain starts transcribing note by note.**
 
 <h3 align="left">Connect with me:</h3>
