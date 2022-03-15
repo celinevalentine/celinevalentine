@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
-<h3 align="center">A passionate Full-stack Developer @ Education Analytics</h3>
+<h3 align="center">A passionate sales engineer at Vercel.</h3>
 
 - 🔭 I’m currently working on **building data visualization tools for education institutions.**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **AWS technologies and NextJS**
 
-- 👯 I’m looking to collaborate on **building a full-stack app in AWS.**
+- 👯 I’m looking to collaborate on **building a full-stack app in NextJS with e-commerce integrations.**
 
 - 👨‍💻 All of my portfolio site is available at [https://celinevalentine.com/](https://celinevalentine.com/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, React, PostgreSQL, Express.**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, Next, React, PostgreSQL, Express.**
 
 - 📫 How to reach me **celine.valentine.tech@gmail.com.**
 - ⚡ Fun fact **I have a perfect pitch. I prefer not to code while listening to music as my brain starts transcribing note by note.**
