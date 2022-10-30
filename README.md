@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
 <h3 align="center">A passionate sales engineer at Vercel.</h3>
 
-- 🔭 I’m currently working on **building data visualization tools for education institutions.**
+- 🔭 I’m currently working on **building a new personal blogging website.**
 
 - 🌱 I’m currently learning **AWS technologies and NextJS**
 
