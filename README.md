@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celine Valentine</h1>
-<h3 align="center">A passionate sales engineer at Vercel.</h3>
+<h3 align="center">A passionate solutions engineer.</h3>
 
 - 🔭 I’m currently working on **building a new personal blogging website.**
 
