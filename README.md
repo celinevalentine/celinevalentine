@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **building a new personal blogging website.**
 
-- 🌱 I’m currently learning **AWS technologies and NextJS**
+- 🌱 I’m currently learning **AWS technologies and DevOps Automation tools**
 
 - 👯 I’m looking to collaborate on **building a full-stack app in NextJS with e-commerce integrations.**
 
 - 👨‍💻 All of my portfolio site is available at [https://celinevalentine.com/](https://celinevalentine.com/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, Next, React, PostgreSQL, Express.**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, Node.js, Next, React, PostgreSQL, Express, Terraform.**
 
 - 📫 How to reach me **celine.valentine.tech@gmail.com.**
 - ⚡ Fun fact **I have a perfect pitch. I prefer not to code while listening to music as my brain starts transcribing note by note.**
